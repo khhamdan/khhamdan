@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Social Media Management Tool**
 
-- 🌱 I’m currently learning **Spring Boot and Salesforce**
+- 🌱 I’m currently learning **Spring Boot and AWS**
 
 - 👯 I’m looking to collaborate on **Spring boot and Reac.js/MERN**
 

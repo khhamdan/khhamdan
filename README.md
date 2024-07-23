@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and AWS**
 
-- 👯 I’m looking to collaborate on **Spring boot and Reac.js/MERN**
+- 👯 I’m looking to collaborate on **Spring boot and React.js/MERN**
 
 - 💬 Ask me about **Spring Boot , MERN**
 

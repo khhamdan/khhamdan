@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Spring Boot , MERN**
 
-- 📫 How to reach me **hamdanahmadkhawaja@gmail.com**
-
 - ⚡ Fun fact **I like watching coding movies and real based movies**
 
 <h3 align="left">Connect with me:</h3>

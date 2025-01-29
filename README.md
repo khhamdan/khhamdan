@@ -13,6 +13,8 @@
 - 💬 Ask me about **Spring Boot , MERN**
 
 - ⚡ Fun fact **I like watching coding movies and real based movies**
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-azhar10/) [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-success?logo=upwork)](https://www.upwork.com/freelancers/~01420a82403b6a1d38?mp_source=share)[![Upwork](https://sg.fiverrcdn.com/press_release/1204/Press-Page%20-%2013_press_image_1715002844.jpg)
+  
 
 <h3 align="left">LeedCode:</h3>
 <a href="https://www.leetcode.com/hamdanahmad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamdanahmad__" height="30" width="40" /></a>

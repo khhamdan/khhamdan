@@ -4,15 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khhamdan&label=Profile%20views&color=0e75b6&style=flat" alt="khhamdan" /> </p>
 
-- 🔭 I have completed projects like **Social Media Management Tool** and **Ecommerce and MarketPlace Project** 
+- 🔭 I have completed many projects in Java, Spring boot and Microservices  
 
-- 🌱 I have expertise in **Spring Boot Next.js and AWS, n8n automation and CI/CD Pipeline**
+- 🌱 I have expertise in **Spring Boot, Java, Microservices, Docker, React.js, Next.js & AWS, CI/CD Pipeline, n8n automation, Flask, Python**
 
-- 👯 I’m looking to collaborate on **Spring boot and React.js/MERN**
+- 👯 I’m looking to collaborate on **Java, Spring boot and Microservices and even Full stack with React, Next.js **
 
-- 💬 Ask me about **Spring Boot , MERN, n8n automation**
-
-- ⚡ Fun fact **I like watching coding movies and real based movies**
+- 💬 Ask me about **any technology I mentioned above**
 
 
 <h3 align="left">LeedCode:</h3>
